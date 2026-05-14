@@ -1,4 +1,4 @@
-# Анализ продаж (BigQuery + ClickHouse)
+# Анализ продаж (BigQuery + ClickHouse) iowa_sales_analysis_sql
 
 **Технологии:** BigQuery, ClickHouse (chDB), pandas, plotly
 
